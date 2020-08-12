@@ -1,1 +1,3 @@
-main(List<String> args) {}
+main(List<String> args) {
+  printASDasd;
+}
